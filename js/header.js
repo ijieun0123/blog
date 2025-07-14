@@ -17,14 +17,13 @@ closeBtn.addEventListener("click", () => {
 const pageType = document.body.dataset.page;
 const headerLogo = document.querySelector(".header_logo");
 const nav = document.querySelector("header nav");
-const menu = document.querySelector(".menu");
 
 if (pageType == "main") {
     headerLogo.src = "img/white_logo.png";
     nav.classList.remove("black");
-    menu.src = "img/white_menu.svg";
+    menuBtn.src = "img/white_menu.svg";
 } else if (pageType === "blog" || pageType === "blog-detail") {
     headerLogo.src = "img/black_logo.svg";
     nav.classList.add("black");
-    menu.src = "img/black_menu.svg";
+    menuBtn.src = "img/black_menu.svg";
 }
