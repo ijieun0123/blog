@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
             // header.html이 삽입된 후에 header.js를 로드
             const script = document.createElement("script");
-            script.src = "../js/header.js";
+            script.src = "js/header.js";
             document.body.appendChild(script);
         });
 
