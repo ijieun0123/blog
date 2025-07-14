@@ -606,10 +606,10 @@ header .container nav.black .get_access_btn {
 .review .container .title {
 }
 .review .container .title .card_box {
-    width: 100vw;
+    /* width: 100vw;
     position: relative;
     margin-left: calc((100vw - 1440px) / -2);
-    overflow: hidden;
+    overflow: hidden; */
 }
 .review .container .card_box .card {
     display: flex;
@@ -676,7 +676,7 @@ header .container nav.black .get_access_btn {
 
 /* swiper */
 .review .swiper {
-    overflow: visible;
+    /* overflow: visible; */
     cursor: pointer;
 }
 .review .swiper-slide {
