@@ -6,5 +6,5 @@
 
 👉 [피그마](https://www.figma.com/design/70K7HCVIsWTcIM9N1iwOTW/Blog-Design-%EC%B5%9C%EC%A2%85-2?node-id=71086-893&t=bVxAaQpgC9h5PVge-1)<br/>
 👉 [메인 페이지 바로가기](https://ijieun0123.github.io/blog/)<br/>
-👉 [블로그 페이지 바로가기](https://ijieun0123.github.io/blog/blog.html/)<br/>
-👉 [블로그 페이지 바로가기](https://ijieun0123.github.io/blog/blog-detail.html/)
+👉 [블로그 페이지 바로가기](https://ijieun0123.github.io/blog/blog.html)<br/>
+👉 [블로그 상세 페이지 바로가기](https://ijieun0123.github.io/blog/blog-detail.html)
