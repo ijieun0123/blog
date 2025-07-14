@@ -173,6 +173,7 @@ header .container nav.black .get_access_btn {
 @media (max-width: 600px) {
     header .container .menu {
         display: block;
+        width: 25px;
         cursor: pointer;
     }
     header .container nav {
