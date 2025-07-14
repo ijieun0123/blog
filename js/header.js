@@ -21,9 +21,9 @@ const headerLogo = document.querySelector(".header_logo");
 const nav = document.querySelector("header nav");
 
 if (pageType == "main") {
-    headerLogo.src = "/img/white_logo.png";
+    headerLogo.src = "img/white_logo.png";
     nav.classList.remove("black");
 } else if (pageType === "blog" || pageType === "blog-detail") {
-    headerLogo.src = "/img/black_logo.svg";
+    headerLogo.src = "img/black_logo.svg";
     nav.classList.add("black");
 }
